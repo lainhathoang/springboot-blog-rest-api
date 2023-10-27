@@ -49,3 +49,4 @@ build/
 # Maven
 log/
 target/
+.mvn/wrapper
